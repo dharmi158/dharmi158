@@ -1,7 +1,7 @@
 ## Hello, I'm Dharmi Chavda👋
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 * I'm pursuing my B.Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/). 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 * My main interests are web development & competitive programming.
 
@@ -18,7 +18,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&theme=tokyonight)
 
-![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharmi158&&theme=xcode)]
+![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharmi158&&theme=xcode)
 
 ## Most Used Language #
 
