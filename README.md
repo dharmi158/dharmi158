@@ -8,7 +8,6 @@
 - 📫 Reach me **dharmi6319@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<hr/>
 <p align="left">
 <a href="https://linkedin.com/in/dharmi-chavda-1b37b81b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmi-chavda-1b37b81b5" height="30" width="40" /></a>
 <a href="https://instagram.com/_1.dharmi.9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_1.dharmi.9_" height="30" width="40" /></a>
