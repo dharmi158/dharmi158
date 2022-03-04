@@ -18,7 +18,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&theme=tokyonight)
 
-![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharmi158&&theme=xcode)](https://github.com/rishavchanda)
+![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharmi158&&theme=xcode)]
 
 ## Most Used Language #
 
@@ -26,6 +26,6 @@
 
 ## Connect With Me
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmi6319@gmail.com)&nbsp;
-[![Mahammadayan Shaikh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmi-chavda-1b37b81b5/)&nbsp;
+[![Dharmi Chavda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmi-chavda-1b37b81b5/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_dharmiiii_)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_1.dharmi.9_/)&nbsp;
