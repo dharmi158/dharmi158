@@ -20,7 +20,7 @@
 
 <h3 align="left">Most Used Languages :</h3>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmi158&show_icons=true&locale=en&layout=compact" alt="dharmi158" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmi158&show_icons=true&locale=en&layout=compact" alt="dharmi158" /><br/></p>
 <br/>
 <h3 align="left">Statistics :</h3>
 <hr/>
