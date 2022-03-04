@@ -1,7 +1,7 @@
 ## Hello, I'm Dharmi Chavda👋
 
 * I'm pursuing my B.Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/). 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 * My main interests are web development & competitive programming.
 
