@@ -18,6 +18,7 @@
 
 <h3 align="left">Most Used Languages :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmi158&show_icons=true&locale=en&layout=compact" alt="dharmi158" /></p>
+<hr/>
 <h3 align="left">Statistics :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&locale=en" alt="dharmi158" /></p>
 
