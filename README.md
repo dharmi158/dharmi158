@@ -18,7 +18,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&theme=tokyonight)
 
-![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharmi158&&theme=xcode)](https://github.com/rishavchanda)
 
 ## Most Used Language #
 
