@@ -7,7 +7,7 @@
 
 * 🌱 I’m currently learning **Web Devlopment**
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 
 ## Skills
