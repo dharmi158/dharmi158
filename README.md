@@ -1,12 +1,14 @@
 ## Hello, I'm Dharmi Chavda👋
 
-* I'm pursuing my B.Tech in Computer engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/). 
+* I completed B.Tech in Computer Engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/) in 2023.
+
+* I've worked at [Synoverge](https://www.synoverge.com/) as an Associate Software Engineer for a year.
 
 * My main interests are web development & competitive programming.
 
-* 🔭 I’m currently working on **DSA**
+* 🔭 I’m currently working on **DSA** to upscale my problem-solving abilities.
 
-* 🌱 I’m currently learning **Web Devlopment**
+* 🌱 I’m currently enhancing **Web Devlopment** skill.
 
 
 ## Skills
