@@ -1,5 +1,6 @@
 ## Hello, I'm Dharmi Chavda👋
 
+
 * I completed B.Tech in Computer Engineering from [Dharmsinh Desai University, Nadiad](https://ddu.ac.in/) in 2023.
 
 * I've worked at [Synoverge](https://www.synoverge.com/) as an Associate Software Engineer for a year.
