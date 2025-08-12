@@ -12,7 +12,7 @@
 * 🌱 I’m currently enhancing **Web Devlopment** skill.
 
 
-## Skills## Skills
+## Skills
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
@@ -31,15 +31,13 @@
 </p>
 
 
-
 ## Statistics
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&theme=tokyonight)
+![My github stats](https://github-readme-stats.vercel.app/api?username=dharmi158&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+## Most Used Language
 
-## Most Used Language #
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=dharmi158&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=dharmi158&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&custom_title=Most%20Used%20Languages&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Connect With Me
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmi6319@gmail.com)&nbsp;
